@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calories Counter</string>
+    <string name="hint_food">What did you eat?</string>
+    <string name="hint_calories">Calories count</string>
+    <string name="subit_text">Submit</string>
+    <string name="delete_item">Delete item</string>
+    <string name="share_title">Share</string>
+    <string name="food_total_text">Total Calories:</string>
+    <string name="cal_text">Cal.</string>
+    <string name="food_item_no">Food Items:</string>
+</resources>
